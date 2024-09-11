@@ -1,0 +1,9 @@
+[submodule "lenoproject"]
+	path = lenoproject
+	url = https://github.com/newbienorbie/lenoproject.git
+[submodule "tutor-website"]
+	path = tutor-website
+	url = https://github.com/newbienorbie/tutor-website.git
+[submodule "lumina-creative"]
+	path = lumina-creative
+	url = https://github.com/newbienorbie/lumina-creative.git
